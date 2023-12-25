@@ -27,7 +27,7 @@ The repository structure includes:
 
 ### Method 1: Online
 
-Access the project online via the following Netlify link: [Inteleccess Project](https://teal-cendol-0f5768.netlify.app/).
+Access the project online via the following Netlify link: [Inteleccess Project](https://inteleccessprojet.netlify.app/).
 
 ### Method 2: Locally
 1. Clone this repository: `git clone <repository-url>`.
